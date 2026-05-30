@@ -14,9 +14,9 @@ const Index = () => {
     <div style={heroBgStyle} className="min-h-screen">
       
       <Navigation />
-      <main className="container mx-auto px-4 pt-24 pb-12">
-        <h1 className="text-4xl font-bold">Welcome to TechnoQuest</h1>
-        <p className="text-muted-foreground">Your adventure in technology starts here.</p>
+      <main className="container mx-auto px-4 pt-44 text-center pb-12">
+        <h1 className="text-6xl font-bold">Welcome to TechnoQuest</h1>
+        <p className="text-white-foreground">Your adventure in technology starts here.</p>
         
       </main>
     </div>
